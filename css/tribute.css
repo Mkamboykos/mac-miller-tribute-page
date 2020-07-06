@@ -2,6 +2,8 @@ body {
   text-align: center;
   background-color: #5e0e32;
   font-family: Sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 #title {
@@ -35,6 +37,8 @@ img {
 
 p {
   color: white;
+  text-align: center;
+  margin: 0 auto;
 }
 
 a {
