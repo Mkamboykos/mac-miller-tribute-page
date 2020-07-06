@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  background-color: #5e0e32;
+  font-family: Sans-serif;
+}
+
+#title {
+  font-size: 60px;
+  color: #f54293;
+  padding-top: 50px;
+  padding-bottom: -10px;
+}
+
+#subtitle {
+  font-size: 20px;
+  color: #f54293;
+  padding-top: -10px;
+  padding-bottom: 10px;
+}
+
+#img-div {
+  text-align: center;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-caption {
+  font-size: 30px;
+}
+
+p {
+  color: white;
+  padding-left: 175px;
+  padding-right: 175px;
+}
+
+a {
+  color: #53c29f;
+  padding-bottom: 30px;
+}
